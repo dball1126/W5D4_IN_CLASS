@@ -1,0 +1,14 @@
+/* PHASE 4: Footer */
+    .footer {
+        background: #f00;
+        color: #fff;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .footer-nav {
+        display: flex;
+        justify-content: center;
+        background-color: aquamarine;
+        width: 900px;
+        min-height: 100px;
+    }
